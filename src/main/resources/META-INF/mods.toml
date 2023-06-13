@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GNU LGPLv3"
+
+[[mods]]
+    modId="teleport_altar"
+    version="19.2.2"
+    displayName="Teleport Altar"
+    credits=""
+    authors="skyjay1"
+    description='''Simple randomized teleportation'''
+
+[[dependencies.teleport_altar]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43.2,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.teleport_altar]]
+    modId="waystones"
+    mandatory=false
+    versionRange="[11.4.0,)"
+    ordering="BEFORE"
+    side="BOTH"

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "waterlogged=false,facing=east": { "model": "teleport_altar:block/teleport_altar", "y": 90 },
+    "waterlogged=false,facing=north": { "model": "teleport_altar:block/teleport_altar" },
+    "waterlogged=false,facing=south": { "model": "teleport_altar:block/teleport_altar", "y": 180 },
+    "waterlogged=false,facing=west": { "model": "teleport_altar:block/teleport_altar", "y": 270 },
+    "waterlogged=true,facing=east": { "model": "teleport_altar:block/teleport_altar", "y": 90 },
+    "waterlogged=true,facing=north": { "model": "teleport_altar:block/teleport_altar" },
+    "waterlogged=true,facing=south": { "model": "teleport_altar:block/teleport_altar", "y": 180 },
+    "waterlogged=true,facing=west": { "model": "teleport_altar:block/teleport_altar", "y": 270 }
+  }
+}

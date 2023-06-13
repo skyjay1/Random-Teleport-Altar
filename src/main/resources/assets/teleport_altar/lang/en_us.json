@@ -1,0 +1,7 @@
+{
+  "block.teleport_altar.teleport_altar": "Teleport Altar",
+  "message.teleport_altar.interval.single": "Teleporting in %1$s seconds...",
+  "message.teleport_altar.interval.multiple": "Teleporting %1$s players in %2$s seconds...",
+  "message.overlay.extract.extract": "Extract",
+  "message.extract.deny.not_in_quadrant": "You are not in your Extraction Quadrant"
+}

@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "waystones:portstone",
+      "required": false
+    }
+  ]
+}
